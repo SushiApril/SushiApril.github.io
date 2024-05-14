@@ -1,0 +1,123 @@
+.iContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.iContainer p {
+    display: flex;
+    align-items: center; /* vertically aligns the text with the button */
+}
+
+#playButton {
+    margin-left: 10px; /* creates some space between the name and the button */
+    background-color: rgba(255,255,255,0.7);
+}
+
+/*Application of font to body and headings*/
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.navbar {
+    background-color: #333;
+    overflow: auto;
+}
+
+.navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-item {
+    float: left;
+}
+
+.navbar-link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the color on hover */
+.navbar-link:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Clear floats */
+.navbar::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.icon-container {
+    margin-top: 100px;
+    display: flex; /* Make it a flex container */
+    justify-content: center; /* Horizontally center the items */
+    align-items: center; /* Vertically center the items */
+
+    /* These are to ensure the container takes the full height and width */
+    height: 100%;
+    width: 100%;
+}
+
+.contact-icon {
+    margin: 0 10px; /* Spacing between icons */
+    font-size: 100px; /* Adjusts the icon size */
+    color: #333; /* Color of the icons */
+    transition: color 0.3s ease; /* Smooth color transition for hover effect */
+}
+
+.contact-icon:hover {
+    color: #0077b5; /* Color change on hover */
+}
+.contactForm {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0077b5;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-group input[type="submit"]:hover {
+    background-color: #005a8e;
+}
