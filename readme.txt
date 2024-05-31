@@ -1,59 +1,38 @@
---Readme document for *author*--
-
-A reminder on academic integrity, as described in the syllabus.
-
-In general, the course staff expects that you will look at code and examples from many online resources as part of the assignments, particularly to resolve syntax and understand frameworks. We expect that you'll use other libraries you find, and will even require it in some assignments. These practices are often critical to the work of developers today. The best developers are adept at interpreting the examples they see, customizing them to their specific situation, and citing their sources so they can find them later. We expect you to do the same.
-
-While learning from examples is encouraged, attempting to pass an existing project or example from the web as your own is not allowed. If you ever have a question about what is or is not appropriate, feel free to ask the course staff!
-
-Talking to classmates about class material, assignment requirements, etc. is a great way to verify ideas and get feedback. But this distinctly does *not* permit attempting to pass off someone else’s code as your own. Talking over ideas and approaches is allowed, but the work that you produce and submit must be your own.
-
-1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
-
-14/15
-- 1/1 Readme
-- 3/3 Basic HTML content
-- 3/3 Basic CSS styling
-- 2/2 Advanced feature
-- 2/3 Responsive layout
-- 1/1 Passes validation checks
-- 2/2 Embraces spirit of the assignment
-
-2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
-
-(a) Basic features
-        1. At least one image, with descriptive alt attribute(s)
-        2. Appropriate headings and paragraph text
-        3. Links to external page(s)
-        4. Multiple pages, with appropriate navigation between them
-        5. Adding custom icons from Google Material Icons or Font Awesome
+1. Presents at least 5 artifacts from a UX process to help tell the story. Example artifacts include: -- problem statement -- comparative analysis visualization -- user quotes or other data collected -- sketches -- personas -- storyboards -- prototypes -- evaluation photos or results. 4 Marks
+I have used the following artifacts: Problem Statement, Comparative Analysis, User Quotes or other data collected, Personas, Prototype/Demo
 
 
-(b) CSS features
-        1. Modifying padding and margins to indent content and enhance readability
-        2. Adding custom font(s) from Google fonts to add more personality (make sure to include appropriate fallbacks) 
-(c) Advanced features
-        1. Embedded pdf
-        2. navbar
-        3. Embedded Audio
-        4. A contact form which leverages HTML forms and also has formspree integrated with it
+2. Follows best practices for each artifact and uses UX lingo where appropriate. 3 points
+Used the best practices and used UX lingo when necessary
+
+3. Reflects reasonable design logic and design progress. In the course of telling the story, explain how each artifact's insights led to changes in the design or approach. 3 points
+
+Explained how user data led to changes in prototype
 
 
-3. How long, in hours, did it take you to complete this assignment?
-8 hours
+4. Follows the basic arc of a UX story: -- problem -- design process struggle/journey -- design resolution (if you get this far). 3 points
+Have a story arc from conception to implementation
 
+5. Is tailored to the audience (i.e., prospective employers) by, for example: -- being skimmable -- showing off your skillset -- demonstrating your potential to be a pleasant / reliable employee. 3 points
+It's a short read which displays the various processes used in order to design an application. 
 
-4. What online resources did you consult when completing this assignment? (list specific URLs)
- https://youtu.be/PwWHL3RyQgk?si=BdUJXrFhGTpgun99
- https://youtu.be/f3uCSh6LIY0?si=lh1XwMvzcVlZ-CEn
- https://developers.google.com/fonts/faq
- https://formspree.io/library/simple-contact-form/
-Udemy Course on webdev: https://uci.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349942#overview
+6. Tells the story from your perspective, as only you can tell it; you are the central figure, and your teammates and their input are secondary. This includes: -- showcasing your unique identity as a person / designer -- indicating how your actions drove the "plot" forward -- giving appropriate credit to the work of teammates while not making them the focus of the story
+On it. 3 points
 
+7. Is persuasive by, for example: -- using reliable data to motivate the problem -- using comparison and examples to clearly convey claims -- connecting the problem to current issues facing our society. 3 points
+It is persuasive as shown by the data user collected
 
-5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-None
+8. Is an interactive website with at least 3 pages (home page, project detail page, resume page; the resume page may be a downloadable file, so long as it is accessible). 3 points
+It's an interactive website with more than 3 pages
 
+9. Follows basics design best practices for visual / information layout, including: -- visual hierarchy -- gestalt principles (like proximity) -- following a gridded layout -- having sufficient color contrast and standard font size. 3 points
+Follows an accessble color pallete and best design practices
 
-6. Is there anything special we need to know in order to run your code?
-All images are locally sourced 
+10. Uses proper grammar and simple / clear writing style. 1 point
+Check
+
+11. Uses visuals effectively to convey the story (for example, icons, photographs, diagrams, etc.). 3 points
+YES! used every visual aid I could in order to convey the story
+
+12. The portfolio is accessible (proper html headings, alt text, lists, hyperlinks, new lines, color contrast, etc.). 3 points
+Yes it is accessible
